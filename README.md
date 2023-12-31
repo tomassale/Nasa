@@ -28,11 +28,22 @@ Proyecto Imagenes de la Nasa creado con react native
 * react-native-screens: ^3.29.0
 ---
 # Instalacion
+1. Clonar Repositorio
+```
 > git clone https://github.com/tomassale/Nasa
+```
+2. Instalación
+```
 > cd Nasa
+```
+3. Posicionarse
+```
 > npm install
+```
+4. Iniciar
+```
 > npm start
----
+```
 ---
 ## Tomás Javier Sale
 * Linkedin: https://www.linkedin.com/in/tomás-sale-147077226/
